@@ -1,2 +1,2 @@
 # urban_audio_classification
-Deep learning urban audio classification alogrithim
+Deep learning urban audio classification algorithim
