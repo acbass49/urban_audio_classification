@@ -1,5 +1,5 @@
 # urban_audio_classification
-Deep learning urban audio classification algorithim
+CNN implementation of Deep learning urban audio classification algorithim. Read the final report in the root directory of this repo: Final_Report.pdf
 
 Here are our models and their associated files:
 1. All features AlexNET CNN : allFeaturesAlexNet.ipynb <- Our best performing model!
